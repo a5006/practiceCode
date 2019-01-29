@@ -47,6 +47,10 @@ checkItems.forEach(function (item) {
 
 ```
 
-![img](https://github.com/a5006/practiceCode/blob/master/1/image/show.jpg)
+## 预览地址
 
 https://jsbin.com/hipihiwami/1/edit?html,js,console,output
+
+![img](https://github.com/a5006/practiceCode/blob/master/1/image/show.jpg)
+
+
