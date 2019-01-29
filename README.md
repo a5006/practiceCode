@@ -49,4 +49,4 @@ checkItems.forEach(function (item) {
 
 ![img](https://github.com/a5006/practiceCode/blob/master/1/image/show.jpg)
 
-
+https://jsbin.com/hipihiwami/1/edit?html,js,console,output
