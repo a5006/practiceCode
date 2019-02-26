@@ -52,7 +52,7 @@ checkItems.forEach(function (item) {
 https://jsbin.com/hipihiwami/1/edit?html,js,console,output
 
 
-随机生成大小不一样，颜色不一样，位置不一样的方块
+## 随机生成大小不一样，颜色不一样，位置不一样的方块
 
 
 
